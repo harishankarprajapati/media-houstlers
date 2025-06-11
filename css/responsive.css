@@ -222,8 +222,77 @@
     margin: 0;
   }
 .secherotext h1 {
-    font-family: 'Montserrat';
     font-size: 40px;
+}
+.secherotext h4 {
+    font-size: 26px;
+ }
+ .secherotext h5{
+    font-size: 30px;
+ }
+.secherotext {
+    padding-bottom: 32px;
+}
+br {
+    display: none;
+}
+.fw-bold2 {
+    font-size: 33px;
+}
+.semmbebt {
+    margin-top: -150px !important;
+    margin-bottom: 50px;
+    padding: 0;
+    margin-left: -133px;
+}
+
+.secbggb2b {
+    padding: 20px;
+    border-radius: 100px 0px 0px 00px;
+}
+.secorgtext h3 {
+    font-size: 30px;
+}
+.secbgblr {
+    width: 52%;
+    margin-top: -220px;
+    border-radius: 20px;
+}
+
+.secorgtext2 h3 {
+    font-size: 30px;
+}
+.secmedibgg {
+    padding: 60px 20px;
+}
+.secourtext{
+    font-size: 30px;
+ }
+.secouttitle h3 {
+   font-size: 30px;
+
+}
+.orbggsec {
+    width: 100%;
+}
+.secletbg {
+    padding: 40px 20px;
+}
+.secletbg h2 {
+    font-size: 35px;
+}
+.secletbg h3 {
+    font-size: 18px;
+}
+
+.secommbg {
+    width: 100%
+}
+.seccommtitt h2 {
+    font-size: 30px;
+}
+.secsocmetext {
+    font-size: 30px;
 }
 }
 
