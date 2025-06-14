@@ -83,6 +83,7 @@
 
   button.navbar-toggler {
     background:#000;
+    border: 1px solid #fff;
     margin-top: 17px;
     height: 45px;
     padding: 13px 15px;
@@ -198,6 +199,7 @@
 
   button.navbar-toggler {
     background: #000;
+    border: 1px solid #fff;
     margin-top: 17px;
     height: 45px;
     padding: 13px 15px;
@@ -294,9 +296,84 @@ br {
 .secsocmetext {
     font-size: 30px;
 }
+.secpahersheadd{
+    font-size: 40px;
+    padding-bottom: 90px;
+ }
+ .secvalueddff {
+    display: flex
+;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
+.seccartext h2 {
+    font-size: 30px;
+}
+.sechedval {
+    font-size: 30px;
+}
+.secradytext {
+    font-size: 30px;
+}
+.secfooterbg {
+    padding: 40px 10px;
+}
+.headeraboutbg {
+    height: auto;
+}
+.allpagelogosec .headermenusec {
+    color: #000;
+}
+.allpagesec{
+  padding-top: 20px;
+}
+.secmanagtext h3 {
+    font-family: 'Montserrat';
+    font-size: 27px;
+}
+.secbgmanag {
+    padding: 40px 10px;
+}
+.secultapula{
+  display: flex;
+  flex-direction: column-reverse;
+}
+.sechedval2 {
+    font-size: 30px;
 
+}
+.secsocbg {
+    display: flex;
+    flex-direction: column;
+}
+.sectrusttextbg h3 {
+    font-size: 30px;
+}
+.contbgg {
+    padding: 40px 20px;
+    width: 100%;
+    margin: auto;
+}
+.secmdhbg {
+    padding: 40px 20px 200px 20px;
+}
+.socsmesbg {
+    display: flex;
+    padding-bottom: 20px;
+}
+.secwhtext2 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+.secwhtext {
+    font-size: 30px;
+    padding-bottom: 20px;
 
+}
+#button{
+    bottom: 35px;
+ }
+}
 
 
 

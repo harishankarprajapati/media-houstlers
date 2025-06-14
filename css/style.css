@@ -704,7 +704,7 @@ button.accordion-button.collapsed h3 {
 .secmedibgg {
    background-color: #FFF8DE;
    border-radius: 180px 0px 0px 0px;
-   margin-top: -170px;
+   margin-top: -170px !important;
    padding: 60px;
 }
 
@@ -1329,7 +1329,7 @@ button.accordion-button.collapsed h3 {
    padding: 60px 0px  200px 0px;
 }
 .sectomar{
-   margin-top: -140px;
+   margin-top: -140px !important;
 }
 /* blogs */
 .headerblogsbg{
@@ -1344,4 +1344,93 @@ button.accordion-button.collapsed h3 {
 }
 .seccampall{
    padding-bottom: 40px;
+}
+/* contact */
+.headercontactbg{
+      background-image: url(../images/contactbg.png);
+   background-position: bottom;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 400px;
+}
+.contbgg{
+   padding: 60px 0px;
+   width: 70%;
+   margin: auto;
+}
+.contff input{
+   border: 1px solid #BBBBBB;
+   border-radius: 50px;
+   margin-bottom: 20px;
+}
+.contff label{
+    font-family: 'Montserrat';
+   font-size: 15px;
+}
+.contff textarea{
+     border: 1px solid #BBBBBB;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
+.contff button{
+   width: 100%;
+   border: 1px solid #D19C1A;
+   background-color: #FFDE59; 
+    font-family: 'Montserrat';
+   font-size: 15px;
+   font-weight: 600;
+}
+.contff button:hover{
+ background-color: #000;  
+ border: 1px solid #000;
+ color: #fff;
+}
+.secmdhbg{
+   background-image: url(../images/contbgim2.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 60px 0px  200px 0px;
+}
+.seccontgribg{
+   margin-top: -150px !important;
+}
+.secwhtext{
+      font-family: 'Montserrat';
+   font-size: 20px;
+   font-weight: 500;
+   color: #fff;
+}
+.secwhtext2{
+      font-family: 'Montserrat';
+   font-size: 40px;
+   font-weight: 500;
+   color: #fff;
+}
+.socsmesbg{
+   display: flex;
+}
+.seciconme{
+   width: 15%;
+}
+.seciconme i{
+   font-size: 40px ;
+   color: #fff;
+}
+.secmidtext h6{
+      font-family: 'Montserrat';
+      font-size: 25px;
+      color: #fff;
+      margin: 0;
+}
+.secmidtext p{
+      font-family: 'Montserrat';
+      font-size: 15px;
+      color: #fff;
+      margin: 0;
+}
+.secmidtext h6 i{
+color: #D19C1A;
+}
+.secmedrrp{
+   padding-bottom: 30px;
 }
