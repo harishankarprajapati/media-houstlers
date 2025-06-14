@@ -236,11 +236,14 @@
   .sectheay {
     font-size: 13px;
   }
+  p.sectheay {
+    display: none;
+}
   .secdort {
     display: none;
 }
   .sectheay2 {
-    font-size: 13px;
+    display: none;
   }
   .herosefor button {
     font-size: 16px;
