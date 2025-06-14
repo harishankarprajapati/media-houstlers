@@ -197,7 +197,8 @@
 
 }
 .secbgblr2 {
-    padding: 5px
+    padding: 5px;
+    width: 53%;
 }
 .secbtnble2 a {
     padding: 10px 13px;
@@ -269,7 +270,7 @@ br {
     font-size: 30px;
 }
 .secbgblr {
-    width: 52%;
+    width: 55%;
     margin-top: -220px;
     border-radius: 20px;
 }
