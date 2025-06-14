@@ -188,8 +188,20 @@
   .secwhitpad {
     width: 100% !important;
   }
-  
+  .claimgtbb {
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+.secbtnble a {
+    padding: 10px 15px;
 
+}
+.secbgblr2 {
+    padding: 5px
+}
+.secbtnble2 a {
+    padding: 10px 13px;
+}
   a.navbar-brand {
     width: 77% !important;
   }
