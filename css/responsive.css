@@ -236,6 +236,9 @@
   .sectheay {
     font-size: 13px;
   }
+  .secdort {
+    display: none;
+}
   .sectheay2 {
     font-size: 13px;
   }
