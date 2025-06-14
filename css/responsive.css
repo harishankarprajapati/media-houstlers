@@ -178,6 +178,7 @@
 
   .seclogow {
     width: 60% !important;
+    padding-top: 10px;
 }
   .navbar-expand-xl .navbar-nav {
     flex-direction: column;
