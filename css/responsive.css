@@ -233,6 +233,12 @@
     line-height: 40px;
     font-size: 18px !important; 
   }
+  .sectheay {
+    font-size: 13px;
+  }
+  .sectheay2 {
+    font-size: 13px;
+  }
   .herosefor button {
     font-size: 16px;
   }
